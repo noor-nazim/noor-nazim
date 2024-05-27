@@ -14,8 +14,7 @@ Aspiring web developer with a solid background in software engineering from Daff
 |-----------------------------------------------
 | Web Application Development with Laravel          
 | Front-End Development (HTML, CSS, JavaScript) 
-| Database Management with MySQL      
-| RESTful API Development    
+| Database Management with MySQL         
 | Full-Stack Development                  
 
 ## Tools
