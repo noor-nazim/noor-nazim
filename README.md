@@ -70,6 +70,6 @@ Tools
 
 ![Abdur Noor Nazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=noor-nazim&show_icons=true&theme=radical)
 
-## GitHub Activity Heatmap
+## GitHub Activity
 
-[![Abdur Noor Nazim's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=noor-nazim&theme=react-dark)](https://github.com/noor-nazim)
+![Abdur Noor Nazim's GitHub activity](https://img.shields.io/github/commit-activity/m/noor-nazim/noor-nazim?label=Commit%20Activity&style=for-the-badge)
