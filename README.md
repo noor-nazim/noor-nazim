@@ -70,6 +70,6 @@ Tools
 
 ![Abdur Noor Nazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=noor-nazim&show_icons=true&theme=radical)
 
-## GitHub Contribution Graph
+## GitHub Activity Heatmap
 
-![Snake animation](https://github.com/noor-nazim/noor-nazim/blob/output/github-contribution-grid-snake.svg)
+[![Abdur Noor Nazim's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=noor-nazim&theme=react-dark)](https://github.com/noor-nazim)
