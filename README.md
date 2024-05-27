@@ -69,6 +69,14 @@ Tools
 
 ![Abdur Noor Nazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=noor-nazim&show_icons=true&theme=radical)
 
+## GitHub Contribution Streak
+
+![Abdur Noor Nazim's GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=noor-nazim)
+
+## Top Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noor-nazim&layout=compact)
+
 ## GitHub Activity
 
 ![Abdur Noor Nazim's GitHub activity](https://img.shields.io/github/commit-activity/m/noor-nazim/noor-nazim?label=Commit%20Activity&style=for-the-badge)
